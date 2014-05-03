@@ -1,0 +1,9 @@
+Building MLKCoin
+
+See doc/readme-qt.rst for instructions on building MLKCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MLKCoin.
+
+See doc/build-*.txt for instructions on building MLKCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MLKCoin.
